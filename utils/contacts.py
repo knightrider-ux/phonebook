@@ -103,7 +103,6 @@ def add_contact():
 		conn.commit()
 		return True
 	except:
-		print('Here in except')
 		return False
 
 
@@ -220,7 +219,6 @@ def import_csv():
 				print(row)
 				# If either name or number is empty, fail the operation
 				if row[0] == '' or row[1] == '':
-					print('Here')
 					return False
 				# if email doesn't exist
 				if len(row) == 2:
