@@ -39,5 +39,6 @@ Helpful if you have selected the wrong option.
 - Sanskar Agrawal
 - Saumy Pandey
 - Som Shiv Gupta
+- Anshuman Yadav
 
 [Report a new bug/issue](https://github.com/AritificialPhysics/phonebook/issues/new)
